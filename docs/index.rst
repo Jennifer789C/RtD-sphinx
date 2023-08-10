@@ -10,7 +10,7 @@ Welcome to rtd-sphinx's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+Il s'agit d'un site de démonstration pour installer Sphinx et ReadTheDocs
 
 Indices and tables
 ==================
